@@ -15,9 +15,9 @@ body {
     align-items: center;
     height: 100vh;
     margin: 0;
-    background-image: url("https://unsplash.com/photos/purple-and-pink-light-illustration-rKv4HduvzIE");
+    background-image: url("https://images.unsplash.com/photo-1579547621706-1a9c79d5c9f1?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D");
     background-repeat: no-repeat;
-    background-size: contain;
+    background-size: cover;
 }
 
 h1{
